@@ -9,4 +9,4 @@ building things on the internet.<br>
   based in france.
 </p>
 
-<a href="https://lev.md">website</a> · <a href="mailto:hi@lev.md">email</a>
+<a href="https://lev.md">website</a> · <a href="copy:hi@lev.md">email</a>
