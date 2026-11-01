@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**levmd/levmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="banner" />
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">hey, i'm lev.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  building things on the internet.
+</p>
+
+<p align="center">
+  software / products / whatever works
+</p>
+
+<br>
+
+### about
+
+- based in france
+- turning random ideas into real products
+- currently building [credmc](https://credmc.com)
+- occasionally into cars & other stuff
+
+<br>
+
+### elsewhere
+
+[website](https://lev.md) / [email](mailto:hi@lev.md)
+
+<br>
+
+<sub>probably building something rn.</sub>
