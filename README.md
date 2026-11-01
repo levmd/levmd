@@ -8,5 +8,3 @@ building things on the internet.<br>
   currently building <a href="https://credmc.com">credmc</a>.<br>
   based in france.
 </p>
-
-<a href="https://lev.md">website</a> · <a href="copy:hi@lev.md">email</a>
