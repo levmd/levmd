@@ -1,4 +1,4 @@
-<img src="./banner.jpg" width="100%" height="125" alt="banner">
+<img src="./banner.jpg" width="100%" height="150" alt="banner">
 
 <h3>hey, i'm lev.</h3>
 
