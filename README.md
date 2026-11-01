@@ -1,33 +1,13 @@
+<img src="./banner.jpg" width="100%" height="125" alt="banner">
 
-<p align="center">
-  <img src="./banner.jpg" width="100%" alt="banner" />
+<h3>hey, i'm lev.</h3>
+
+building things on the internet.<br>
+software / products / occasionally cars
+
+<p>
+  currently building <a href="https://credmc.com">credmc</a>.<br>
+  based in france.
 </p>
 
-<h2 align="center">hey, i'm lev.</h2>
-
-<p align="center">
-  building things on the internet.
-</p>
-
-<p align="center">
-  software / products / whatever works
-</p>
-
-<br>
-
-### about
-
-- based in france
-- turning random ideas into real products
-- currently building [credmc](https://credmc.com)
-- occasionally into cars & other stuff
-
-<br>
-
-### elsewhere
-
-[website](https://lev.md) / [email](mailto:hi@lev.md)
-
-<br>
-
-<sub>probably building something rn.</sub>
+<a href="https://lev.md">website</a> · <a href="mailto:hi@lev.md">email</a>
