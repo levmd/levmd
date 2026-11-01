@@ -3,7 +3,6 @@
 <h3>hey, i'm lev.</h3>
 
 building things on the internet.<br>
-software / products / occasionally cars
 
 <p>
   currently building <a href="https://credmc.com">credmc</a>.<br>
